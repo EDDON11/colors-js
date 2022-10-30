@@ -4,4 +4,5 @@
 
 ### HTML, CSS, JavaScript.
 
-![Alt-текст](../colors-js/images/colors.png)
+![alt text](images/colors.png)
+
