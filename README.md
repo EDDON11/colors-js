@@ -1,8 +1,8 @@
 # colors-js
 
-## Project random colors. 
+## Project Color Generator Palette. 
 
 ### HTML, CSS, JavaScript.
 
-![alt text](images/colors.png)
+![alt text](images/templatecolors2.png)
 
